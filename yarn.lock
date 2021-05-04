@@ -59,9 +59,10 @@
     pretty-ms "^0.2.1"
     text-table "^0.2.0"
 
-"@types/aws-lambda@8.10.13":
-  version "8.10.13"
-  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.13.tgz#92cc06b1cc88b5d0b327d2671dcf3daea96923a5"
+"@types/aws-lambda@8.10.76":
+  version "8.10.76"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.76.tgz#a20191677f1f5e32fe1f26739b1d6fbbea9cf636"
+  integrity sha512-lCTyeRm3NWqSwDnoji0z82Pl0tsOpr1p+33AiNeidgarloWXh3wdiVRUuxEa+sY9S5YLOYGz5X3N3Zvpibvm5w==
 
 "@types/body-parser@*":
   version "1.16.8"
